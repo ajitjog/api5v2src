@@ -1,0 +1,11 @@
+C:\Ajit\kubernetes\apibuild5v2\CoreApi5V2.exe
+C:\Ajit\kubernetes\apibuild5v2\appsettings.Development.json
+C:\Ajit\kubernetes\apibuild5v2\appsettings.json
+C:\Ajit\kubernetes\apibuild5v2\CoreApi5V2.dll
+C:\Ajit\kubernetes\apibuild5v2\CoreApi5V2.deps.json
+C:\Ajit\kubernetes\apibuild5v2\CoreApi5V2.runtimeconfig.json
+C:\Ajit\kubernetes\apibuild5v2\CoreApi5V2.pdb
+C:\Ajit\kubernetes\apibuild5v2\Microsoft.OpenApi.dll
+C:\Ajit\kubernetes\apibuild5v2\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ajit\kubernetes\apibuild5v2\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ajit\kubernetes\apibuild5v2\Swashbuckle.AspNetCore.SwaggerUI.dll
